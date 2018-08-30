@@ -1,0 +1,19 @@
+{
+  "name": "@pillarwallet/common-schema",
+  "version": "1.0.0",
+  "description": "Shared schemas definitions between platform microservices and SDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pillarwallet/common-schema.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pillarwallet/common-schema/issues"
+  },
+  "homepage": "https://github.com/pillarwallet/common-schema#readme"
+}
