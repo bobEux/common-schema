@@ -4,6 +4,8 @@
   "description": "Shared schemas definitions between platform microservices and SDK.",
   "main": "index.js",
   "scripts": {
+    "lint:fix": "eslint --fix .",
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
